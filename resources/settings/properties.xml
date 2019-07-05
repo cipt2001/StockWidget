@@ -1,0 +1,7 @@
+<properties>
+	<property id="appVersion" type="string">0.0.1</property>
+	<property id="symbol" type="string">QCOM</property>
+	<property id="price" type="float">0.0</property>
+	<property id="change" type="float">0.0</property>
+	<property id="percent" type="float">0.0</property>
+</properties>

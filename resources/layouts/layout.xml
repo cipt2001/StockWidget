@@ -1,0 +1,6 @@
+<layout id="MainLayout">
+    <label id="id_symbol" text="Needs phone" x="center" y="40" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_LARGE" color="Gfx.COLOR_DK_GRAY" />
+    <label id="id_price" text="--.--" x="center" y="center" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_NUMBER_HOT" color="Gfx.COLOR_LT_GRAY" />
+    <label id="id_change" text="---  " x="center" y="160" justification="Gfx.TEXT_JUSTIFY_RIGHT" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_GREEN" />
+    <label id="id_percent" text="---" x="center" y="160" justification="Gfx.TEXT_JUSTIFY_LEFT" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_GREEN" />
+</layout>

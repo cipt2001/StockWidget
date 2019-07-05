@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetApp.mc" id="3" lineNum="5" pc="268435456" symbol="initialize"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetApp.mc" id="3" lineNum="6" pc="268435460" symbol="initialize"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetApp.mc" id="4" lineNum="10" pc="268435479" symbol="onStart"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetApp.mc" id="5" lineNum="14" pc="268435484" symbol="onStop"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetApp.mc" id="6" lineNum="18" pc="268435489" symbol="getInitialView"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetApp.mc" id="6" lineNum="19" pc="268435493" symbol="getInitialView"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetApp.mc" id="7" lineNum="22" pc="268435531" symbol="onSettingsChanged"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetApp.mc" id="7" lineNum="23" pc="268435535" symbol="onSettingsChanged"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetApp.mc" id="7" lineNum="24" pc="268435558" symbol="onSettingsChanged"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="9" lineNum="16" pc="268435577" symbol="storeInfo"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="9" lineNum="17" pc="268435581" symbol="storeInfo"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="9" lineNum="18" pc="268435607" symbol="storeInfo"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="9" lineNum="19" pc="268435633" symbol="storeInfo"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="9" lineNum="20" pc="268435659" symbol="storeInfo"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="10" lineNum="23" pc="268435686" symbol="getSymbol"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="10" lineNum="24" pc="268435690" symbol="getSymbol"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="11" lineNum="27" pc="268435715" symbol="getPrice"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="11" lineNum="28" pc="268435719" symbol="getPrice"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="12" lineNum="31" pc="268435744" symbol="getChange"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="12" lineNum="32" pc="268435748" symbol="getChange"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="13" lineNum="35" pc="268435773" symbol="getPercent"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="13" lineNum="36" pc="268435777" symbol="getPercent"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="40" pc="268435802" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="41" pc="268435806" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="42" pc="268435817" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="43" pc="268435838" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="44" pc="268435854" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="45" pc="268435870" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="46" pc="268435892" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="47" pc="268435908" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="48" pc="268435957" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="49" pc="268436001" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="50" pc="268436045" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="52" pc="268436089" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="55" pc="268436108" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="14" lineNum="57" pc="268436132" symbol="onReceive"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="15" lineNum="60" pc="268436143" symbol="makeRequest"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="15" lineNum="61" pc="268436147" symbol="makeRequest"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="15" lineNum="62" pc="268436158" symbol="makeRequest"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="15" lineNum="64" pc="268436162" symbol="makeRequest"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="15" lineNum="65" pc="268436172" symbol="makeRequest"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="15" lineNum="67" pc="268436188" symbol="makeRequest"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="15" lineNum="71" pc="268436209" symbol="makeRequest"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="15" lineNum="77" pc="268436271" symbol="makeRequest"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="15" lineNum="80" pc="268436289" symbol="makeRequest"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="16" lineNum="83" pc="268436328" symbol="initialize"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="16" lineNum="84" pc="268436332" symbol="initialize"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="16" lineNum="85" pc="268436353" symbol="initialize"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="17" lineNum="89" pc="268436372" symbol="onLayout"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="17" lineNum="90" pc="268436376" symbol="onLayout"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="17" lineNum="91" pc="268436397" symbol="onLayout"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="17" lineNum="92" pc="268436434" symbol="onLayout"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="18" lineNum="98" pc="268436469" symbol="onShow"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="18" lineNum="99" pc="268436473" symbol="onShow"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="18" lineNum="100" pc="268436494" symbol="onShow"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="18" lineNum="101" pc="268436524" symbol="onShow"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="18" lineNum="102" pc="268436538" symbol="onShow"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="106" pc="268436560" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="107" pc="268436564" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="108" pc="268436588" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="109" pc="268436612" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="110" pc="268436636" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="113" pc="268436660" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="114" pc="268436690" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="115" pc="268436729" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="116" pc="268436752" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="119" pc="268436769" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="120" pc="268436838" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="122" pc="268436893" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="123" pc="268436911" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="125" pc="268436929" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="126" pc="268436990" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="127" pc="268437057" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="128" pc="268437090" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="129" pc="268437114" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="131" pc="268437141" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="132" pc="268437165" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="136" pc="268437189" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="19" lineNum="137" pc="268437209" symbol="onUpdate"/>
+<entry filename="/home/ctalaba/eclipse-workspace/StockWidget/source/StockWidgetView.mc" id="20" lineNum="143" pc="268437231" symbol="onHide"/>
+<entry filename="Rez" id="27" lineNum="21" pc="268437236" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="25" pc="268437248" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="26" pc="268437394" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="27" pc="268437570" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="28" pc="268437716" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="30" pc="268437862" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry field="true" id="12" symbol="change"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry id="8390425" module="true" symbol="Properties"/>
+<entry id="8390424" module="true" symbol="Storage"/>
+<entry field="true" id="11" symbol="latestPrice"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="10" object="true" symbol="StockWidgetView"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="13" symbol="changePercent"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="25" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="8389891" symbol="symbol"/>
+<entry id="18" method="true" symbol="getChange"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="26" symbol="AppName"/>
+<entry id="19" method="true" symbol="getPercent"/>
+<entry id="21" method="true" symbol="makeRequest"/>
+<entry id="8389594" symbol="headers"/>
+<entry field="true" id="24" symbol="LauncherIcon"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="16" method="true" symbol="getSymbol"/>
+<entry id="15" method="true" symbol="storeInfo"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389348" symbol="font"/>
+<entry id="17" method="true" symbol="getPrice"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="14" symbol="requestStarted"/>
+<entry id="9" object="true" symbol="StockWidgetApp"/>
+<entry field="true" id="8388765" object="true" symbol="Symbol"/>
+<entry id="23" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="22" module="true" symbol="Menus"/>
+<entry id="20" method="true" symbol="onReceive"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+<entry endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+<entry endPc="268435686" name="sym" stackId="2" startPc="268435577"/>
+<entry endPc="268435686" name="percent" stackId="5" startPc="268435577"/>
+<entry endPc="268435686" name="price" stackId="3" startPc="268435577"/>
+<entry endPc="268435686" name="change" stackId="4" startPc="268435577"/>
+<entry endPc="268435686" name="id" stackId="1" startPc="268435577"/>
+<entry endPc="268435715" name="id" stackId="1" startPc="268435686"/>
+<entry endPc="268435744" name="id" stackId="1" startPc="268435715"/>
+<entry endPc="268435773" name="id" stackId="1" startPc="268435744"/>
+<entry endPc="268435802" name="id" stackId="1" startPc="268435773"/>
+<entry endPc="268436143" name="responseCode" stackId="1" startPc="268435802"/>
+<entry endPc="268436143" name="data" stackId="2" startPc="268435802"/>
+<entry endPc="268436327" name="options" stackId="4" startPc="268436147"/>
+<entry endPc="268436327" name="url" stackId="2" startPc="268436147"/>
+<entry endPc="268436327" name="responseCallback" stackId="5" startPc="268436147"/>
+<entry endPc="268436327" name="params" stackId="3" startPc="268436147"/>
+<entry endPc="268436328" name="sym" stackId="1" startPc="268436143"/>
+<entry endPc="268436469" name="dc" stackId="1" startPc="268436372"/>
+<entry endPc="268436559" name="sym" stackId="1" startPc="268436473"/>
+<entry endPc="268437230" name="percentDraw" stackId="4" startPc="268436564"/>
+<entry endPc="268437230" name="changeDraw" stackId="3" startPc="268436564"/>
+<entry endPc="268437230" name="setSymbol" stackId="2" startPc="268436564"/>
+<entry endPc="268437231" name="dc" stackId="1" startPc="268436560"/>
+<entry endPc="268437909" name="rez_cmp_local_text_id_percent" stackId="5" startPc="268437248"/>
+<entry endPc="268437909" name="rez_cmp_local_text_id_symbol" stackId="2" startPc="268437248"/>
+<entry endPc="268437909" name="rez_cmp_local_text_id_price" stackId="3" startPc="268437248"/>
+<entry endPc="268437909" name="rez_cmp_local_text_id_change" stackId="4" startPc="268437248"/>
+<entry endPc="268437910" name="dc" stackId="1" startPc="268437236"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="StockWidgetView" type="class"/>
+<dataEntry offset="341" parentId="globals" symbolId="StockWidgetApp" type="class"/>
+<dataEntry offset="420" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="499" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="538" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="569" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="600" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="631" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="670" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="StockWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="StockWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="StockWidgetApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="StockWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="StockWidgetApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="storeInfo" parent="StockWidgetView">
+<param id="id"/>
+<param id="sym"/>
+<param id="price"/>
+<param id="change"/>
+<param id="percent"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSymbol" parent="StockWidgetView">
+<param id="id"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPrice" parent="StockWidgetView">
+<param id="id"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getChange" parent="StockWidgetView">
+<param id="id"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPercent" parent="StockWidgetView">
+<param id="id"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onReceive" parent="StockWidgetView">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="makeRequest" parent="StockWidgetView">
+<param id="sym"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="StockWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="StockWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="StockWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="StockWidgetView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="StockWidgetView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

@@ -1,0 +1,9 @@
+<settings>
+    <setting propertyKey="@Properties.appVersion" title="@Strings.AppName">
+        <settingConfig type="alphaNumeric" readonly="true" />
+    </setting>
+    <setting propertyKey="@Properties.symbol" title="@Strings.Symbol">
+        <settingConfig type="alphaNumeric" />
+    </setting>
+    
+</settings>
