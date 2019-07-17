@@ -104,6 +104,8 @@ class StockWidgetView extends WatchUi.View {
 
     // Update the view
     function onUpdate(dc) {
+        System.println("onUpdate");
+
     	latestPrice = getPrice(1);
     	symbol = getSymbol(1);
     	change = getChange(1);
@@ -115,7 +117,7 @@ class StockWidgetView extends WatchUi.View {
     	if (!setSymbol.equals(symbol)) {
     		makeRequest(setSymbol);
     	}
-    	
+    	findDrawableById("id_updating").setText(requestStarted ? "Updating..." : "");
         findDrawableById("id_price").setText(latestPrice != null ? latestPrice.format("%.2f") : "---");
         findDrawableById("id_symbol").setText(symbol != null ? symbol : "Needs phone");
         
@@ -134,7 +136,6 @@ class StockWidgetView extends WatchUi.View {
         
         // Call the parent onUpdate function to redraw the layout
         View.onUpdate(dc);
-        System.println("onUpdate");
     }
 
     // Called when this View is removed from the screen. Save the
